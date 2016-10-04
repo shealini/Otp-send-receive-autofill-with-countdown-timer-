@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OTP</string>
+    <string name="title_activity_otp">Otp</string>
+</resources>
